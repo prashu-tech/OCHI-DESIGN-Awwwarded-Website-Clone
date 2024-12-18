@@ -6,8 +6,9 @@ This project is a clone of the **Ochi Design** website, focusing on its captivat
 
 ## 📸 Demo
 
-(https://github.com/user-attachments/assets/4dbb4a76-05db-4fea-b6dd-26201eb898db)
-)  
+![Screenshot 2024-12-18 134243](https://github.com/user-attachments/assets/30ed429a-639c-4783-89b2-78c6d34ba18f)
+
+
 *Screenshot of the home page showcasing the design and layout.*
 
 ---
